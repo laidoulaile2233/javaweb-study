@@ -26,7 +26,3 @@
 **统一响应**：`Result` / `PageResult` 统一封装返回结构
 
 ### 运行
-
-1. 创建数据库 `tlias`，在 `tlias-web-management/src/main/resources/application.yml` 中配置数据源
-2. 启动 `TliasWebManagementApplication`（默认 8080 端口）
-3. 启动 `nginx-1.22.0-web/nginx.exe`（90 端口，`/api/**` 反向代理到 8080），访问 `http://localhost:90`
