@@ -7,11 +7,11 @@
 
 **后端**：Java 17、Spring Boot、Spring MVC、MyBatis、MySQL、PageHelper、Lombok、Logback
 
-**鉴权与增强**：JWT（jjwt）、Servlet Filter 拦截、ThreadLocal 上下文传递、AOP 环绕通知、自定义注解
+**鉴权与增强**：JWT、Servlet Filter 拦截、ThreadLocal 上下文传递、AOP 环绕通知、自定义注解
 
 **管理端**：Vue 3、Element Plus、Vue Router、Pinia、Axios、ECharts、Vite
 
-**部署**：Nginx 静态资源托管 + API 反向代理
+**部署**：Nginx 静态资源托管 + API 反向代理 + Linus + Docker
 
 ### 功能
 
